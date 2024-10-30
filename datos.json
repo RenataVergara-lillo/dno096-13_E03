@@ -49,7 +49,7 @@
         "descripcion": "Ingredientes: 45 ml de vodka, agua tónica, hielo, rodaja de limón o lima para decorar. Paso a Paso: 1. Llena un vaso alto con hielo. 2. Vierte el vodka sobre el hielo. 3. Completa el vaso con agua tónica, ajustando la cantidad al gusto. 4. Revuelve suavemente y decora con una rodaja de limón o lima.",       
         "fecha": "1950",
         "signo": "vodka",
-        "foto": ["vodka-4.jpg"],
+        "foto": "https://github.com/user-attachments/assets/4184f2bd-5eeb-4baa-8174-4a5c50ffe898",
         "fotos": ["vodka-0.jpg","vodka-1.jpg","vodka-2.jpg","vodka-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
