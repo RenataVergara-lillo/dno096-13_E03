@@ -4,7 +4,7 @@
         "descripcion": "Ingredientes: 45 ml de ron blanco, 1 cucharada de azúcar, 6-8 hojas de menta, 30 ml de jugo de lima, agua con gas, hielo, ramita de menta y rodaja de lima para decorar. Paso a Paso: 1. En un vaso alto, coloca las hojas de menta y el azúcar. 2. Agrega el jugo de lima y, con una cuchara o un mortero, presiona suavemente para liberar los aromas de la menta sin triturarla demasiado. 3. Llena el vaso con hielo, añade el ron y completa con agua con gas. 4. Revuelve suavemente y decora con una ramita de menta y una rodaja de lima.",
         "fecha": "1910",
         "signo": "ron",
-        "foto": "mojito-4",
+        "foto": ["mojito-4.jpg"],
         "fotos": ["mojito-0.jpg","mojito-1.jpg","mojito-2.jpg","mojito-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -13,7 +13,7 @@
         "descripcion": "Ingredientes: 60 ml de ron blanco, 30 ml de jugo de lima, 15 ml de jarabe de azúcar, hielo, rodaja de lima para decorar. Paso a Paso: 1. Coloca el ron, el jugo de lima y el jarabe de azúcar en una coctelera con hielo. 2. Agita vigorosamente durante 15-20 segundos. 3. Cuela en una copa de cóctel fría y decora con una rodaja de lima.",        
         "fecha": "1898",
         "signo": "ron",
-        "foto": "daiquiri-4",
+        "foto": ["daiquiri-4.jpg"],
         "fotos": ["daiquiri-0.jpg","daiquiri-1.jpg","daiquiri-2.jpg","daiquiri-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -22,7 +22,7 @@
         "descripcion": "Ingredientes: 60 ml de ron blanco, 90 ml de jugo de piña, 60 ml de crema de coco, hielo, trozo de piña y cereza para decorar. Paso a Paso: 1. En una licuadora, combina el ron, jugo de piña, crema de coco y una taza de hielo. 2. Licúa hasta obtener una textura suave y cremosa. 3. Vierte la mezcla en un vaso alto y decora con un trozo de piña y una cereza.",
         "fecha": "1950",
         "signo": "ron",
-        "foto": "pinacolada-4",
+        "foto": ["pinacolada-4.jpg"],
         "fotos": ["pinacolada-0.jpg","pinacolada-1.jpg","pinacolada-2.jpg","pinacolada-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -31,7 +31,7 @@
         "descripcion": "Ingredientes: 45 ml de vodka, 120 ml de cerveza de jengibre, 15 ml de jugo de lima, rodaja de lima para decorar. Paso a Paso: 1. Llena una taza de cobre o vaso alto con hielo. 2. Agrega el vodka y el jugo de lima, y completa con cerveza de jengibre. 3. Revuelve suavemente y decora con una rodaja de lima.",
         "fecha": "1940",
         "signo": "vodka",
-        "foto": "moscow-4",
+        "foto": ["moscow-4.jpg"],
         "fotos": ["moscow-0.jpg","moscow-1.jpg","moscow-2.jpg","moscow-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -40,7 +40,7 @@
         "descripcion": "Ingredientes: 45 ml de vodka, 15 ml de licor de naranja, 30 ml de jugo de arándano, 10 ml de jugo de lima, hielo, twist de limón para decorar. Paso a Paso: 1. Coloca el vodka, licor de naranja, jugo de arándano y jugo de lima en una coctelera con hielo. 2. Agita vigorosamente durante 10-15 segundos. 3. Cuela en una copa de cóctel fría y decora con un twist de limón.",
         "fecha": "1975",
         "signo": "vodka",
-        "foto": "cosmopolitan-4",
+        "foto": ["cosmopolitan-4.jpg"],
         "fotos": ["cosmopolitan-0.jpg","cosmopolitan-1.jpg","cosmopolitan-2.jpg","cosmopolitan-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -49,7 +49,7 @@
         "descripcion": "Ingredientes: 45 ml de vodka, agua tónica, hielo, rodaja de limón o lima para decorar. Paso a Paso: 1. Llena un vaso alto con hielo. 2. Vierte el vodka sobre el hielo. 3. Completa el vaso con agua tónica, ajustando la cantidad al gusto. 4. Revuelve suavemente y decora con una rodaja de limón o lima.",       
         "fecha": "1950",
         "signo": "vodka",
-        "foto": "vodka-4",
+        "foto": ["vodka-4.jpg"],
         "fotos": ["vodka-0.jpg","vodka-1.jpg","vodka-2.jpg","vodka-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -58,7 +58,7 @@
         "descripcion": "Ingredientes: 45 ml de tequila, 30 ml de licor de naranja, 15 ml de jugo de lima, sal, hielo, rodaja de lima para decorar. Paso a Paso: 1. Escarcha el borde de una copa de Margarita con sal. 2. Coloca el tequila, licor de naranja y jugo de lima en una coctelera con hielo. 3. Agita bien y cuela en la copa escarchada. Decora con una rodaja de lima.",
         "fecha": "1936",
         "signo": "tequila",
-        "foto": "margarita-4",
+        "foto": ["margarita-4.jpg"],
         "fotos": ["margarita-0.jpg","margarita-1.jpg","margarita-2.jpg","margarita-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -67,7 +67,7 @@
         "descripcion": "Ingredientes: 45 ml de tequila, 90 ml de jugo de naranja, 15 ml de granadina, hielo, rodaja de naranja y cereza para decorar. Paso a Paso: 1. Llena un vaso alto con hielo y agrega el tequila y el jugo de naranja. 2. Añade lentamente la granadina, permitiendo que se asiente en el fondo. 3. Decora con una rodaja de naranja y una cereza.",
         "fecha": "1930",
         "signo": "tequila",
-        "foto": "sunrise-4",
+        "foto": ["sunrise-4.jpg"],
         "fotos": ["sunrise-0.jpg","sunrise-1.jpg","sunrise-2.jpg","sunrise-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -76,7 +76,7 @@
         "descripcion": "Ingredientes: 45 ml de tequila, 90 ml de refresco de toronja, 15 ml de jugo de lima, sal, hielo, rodaja de toronja para decorar. Paso a Paso: 1. Escarcha el borde de un vaso alto con sal y llénalo con hielo. 2. Añade el tequila y el jugo de lima, y completa con el refresco de toronja. 3. Revuelve y decora con una rodaja de toronja.",
         "fecha": "1940",
         "signo": "tequila",
-        "foto": "paloma-4",
+        "foto": ["paloma-4.jpg"],
         "fotos": ["paloma-0.jpg","paloma-1.jpg","paloma-2.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -85,7 +85,7 @@
         "descripcion": "Ingredientes: 60 ml de gin, 10 ml de vermut seco, hielo, aceituna o twist de limón para decorar. Paso a Paso: 1. En un vaso mezclador con hielo, añade el gin y el vermut. 2. Remueve suavemente para enfriar, evitando agitar. 3. Cuela en una copa de Martini fría. 4. Decora con una aceituna o un twist de limón.",
         "fecha": "1870",
         "signo": "martini",
-        "foto": "martini-4",
+        "foto": ["martini-4.jpg"],
         "fotos": ["martini-0.jpg","martini-1.jpg","martini-2.jpg","martini-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -94,7 +94,7 @@
         "descripcion": "Ingredientes: 30 ml de gin, 30 ml de vermut rojo (dulce), 30 ml de Campari, hielo, cáscara de naranja o rodaja de naranja para decorar Paso a Paso: 1. Preparar el vaso: Llena un vaso mezclador con hielo para enfriarlo. 2. Mezclar los ingredientes: Vierte el gin, el vermut rojo y el Campari en el vaso mezclador. 3. Remover: Con una cuchara de bar, revuelve suavemente la mezcla durante unos 30 segundos para enfriar y diluir un poco el cóctel. 4. Colar: Cuela la mezcla en una copa de Martini fría. 5. Decorar: Exprime una cáscara de naranja sobre el cóctel para liberar los aceites esenciales y luego colócala en la bebida como decoración, o usa una rodaja de naranja.",
         "fecha": "1919",
         "signo": "martini",
-        "foto": "rosso-4",
+        "foto": ["rosso-4.jpg"],
         "fotos": ["rosso-0.jpg","rosso-1.jpg","rosso-2.jpg","rosso-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     },
@@ -103,7 +103,7 @@
         "descripcion": "Ingredientes: 45 ml de vodka, 30 ml de café espresso recién hecho, 15 ml de licor de café, hielo, granos de café para decorar. Paso a Paso: 1. En una coctelera con hielo, añade el vodka, café espresso y licor de café. 2. Agita vigorosamente durante 10-15 segundos para lograr una textura espumosa. 3. Cuela en una copa de Martini fría. 4. Decora con algunos granos de café en la superficie.",
         "fecha": "1983",
         "signo": "martini",
-        "foto": "espresso-4",
+        "foto": ["espresso-4.jpg"],
         "fotos": ["espresso-0.jpg","espresso-1.jpg","espresso-2.jpg","espresso-3.jpg"],
         "github": "https://github.com/RenataVergara-lillo"
     }
